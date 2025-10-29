@@ -75,3 +75,8 @@ selected_date = date(2025, 2, 3)
 fig = plot_inverter_energy(selected_date,res="15 min")
 plt.show()
 """
+"""
+selected_date = date(2025, 2, 3)
+fig = plot_inverter_energy(selected_date,res="15 min")
+plt.show()
+"""
